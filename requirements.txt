@@ -1,0 +1,8 @@
+numpy
+pandas
+torch
+PIL
+matplotlib
+jupyter
+torchmetrics
+opencv-python

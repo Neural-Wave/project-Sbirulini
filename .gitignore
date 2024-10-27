@@ -1,0 +1,8 @@
+.idea
+checkpoints
+data
+.lightning_studio
+.triton
+.vscode-server
+.vscode
+data.zip
